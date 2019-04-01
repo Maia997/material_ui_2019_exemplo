@@ -6,7 +6,7 @@ Materia: Programação Web II
 
 
 
-Projeto contruido utilizando como referente o seguinte artigo:
+Projeto construido utilizando como referencia o seguinte artigo:
 https://blog.rocketseat.com.br/react-material-ui/
 
 
